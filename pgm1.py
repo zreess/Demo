@@ -1,4 +1,5 @@
 print("hello welcome to git")
 
-print("hello i am ")
-print("9874563210")
+# print("hello i am ")
+
+print("back to home")
